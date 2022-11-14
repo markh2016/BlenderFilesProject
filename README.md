@@ -1,6 +1,6 @@
 ﻿# Blender Files Project
 
-Uploaded for the Alfred Adukobirre Adukobilla , Pallab Nandi, Blessing Emejulu, 
+Uploaded for the Alfred Adukobirre Adukobilla , Pallab Nandi, Blessing Emejulu,  anyone else  whom is interested in  this 
 
 You need to install  Blender version 2.93.9 Any less than this vesrion will  present you with issues 
 
